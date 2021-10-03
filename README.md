@@ -27,9 +27,9 @@ code .
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-[Anasayfa](https://github.com/MuallimNaci/InstagramClone/tree/main/resimler/Screenshot_1.jpg)
-[Anasayfa](https://github.com/MuallimNaci/InstagramClone/tree/main/resimler/Screenshot_2.jpg)
-[Anasayfa](https://github.com/MuallimNaci/InstagramClone/blob/main/resimler/Screenshot_1.jpg)
+![Anasayfa](https://github.com/MuallimNaci/InstagramClone/tree/main/resimler/Screenshot_1.jpg)
+![Anasayfa](https://github.com/MuallimNaci/InstagramClone/tree/main/resimler/Screenshot_2.jpg)
+![Anasayfa](https://github.com/MuallimNaci/InstagramClone/blob/main/resimler/Screenshot_3.jpg)
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
